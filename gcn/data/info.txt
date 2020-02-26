@@ -1,0 +1,18 @@
+With weight Decay Loss
+
+Epoch: 0200 train_loss= 0.61550 train_acc= 0.95714 val_loss= 1.04385 val_acc= 0.79000 time= 0.01535
+Optimization Finished!
+Test set results: cost= 1.00631 accuracy= 0.80900 time= 0.00746
+
+
+Without weight Decay Loss
+
+Epoch: 0164 train_loss= 0.12529 train_acc= 0.99286 val_loss= 0.69436 val_acc= 0.79200 time= 0.01738
+Early stopping...
+Optimization Finished!
+Test set results: cost= 0.64252 accuracy= 0.80800 time= 0.00831
+
+
+
+
+Epoch: 0001 train_loss= 1.95461 train_acc= 0.07857 val_loss= 1.95068 val_acc= 0.17600 time= 3.21023
